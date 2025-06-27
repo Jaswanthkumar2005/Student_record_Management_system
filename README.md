@@ -13,11 +13,17 @@ To create a simple system where:
 ## 📂 Project Structure
 StudentRecordSystem/
 │
+
 ├── StudentRecordSystem.java # Main Java source code
+
 ├── StudentRecordSystem.class # Compiled Java class
+
 │
+
 ├── admin.txt # Admin credentials (username & password)
+
 ├── students.txt # Student records (name, roll, branch, marks)
+
 
 ## ✨ Features
 
